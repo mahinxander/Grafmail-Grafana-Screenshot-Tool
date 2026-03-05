@@ -1,4 +1,4 @@
-# 📊 GrafMail-Grafana Dashboard Screenshot & Delivery Tool
+# 📊 GrafMail - Grafana Dashboard Screenshot & Delivery Tool
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative)
