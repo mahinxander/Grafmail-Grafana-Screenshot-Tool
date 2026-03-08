@@ -319,7 +319,9 @@ https://<grafana-host>/d/<uid>/<slug>?<params>
 Example:
 
 ```bash
+
 https://grafana.example.com/d/abcd1234/system-metrics?orgId=1&from=now-6h&to=now
+
 ```
 
 Breakdown of the parts:
@@ -347,9 +349,11 @@ Common parameters:
 
 Example with variables:
 
-----
+```bash
+
 https://grafana.example.com/d/abcd1234/system-metrics?orgId=1&var-host=server01&from=now-1h&to=now
-----
+
+```
 
 This opens the dashboard with a predefined host variable and a specific time range.
 
