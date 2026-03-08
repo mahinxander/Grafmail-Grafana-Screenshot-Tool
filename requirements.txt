@@ -1,0 +1,24 @@
+# =============================================================================
+# Python Dependencies for GrafMail - Grafana Screenshot Tool
+# =============================================================================
+# Pinned to exact versions for reproducible builds.
+# =============================================================================
+
+# Browser automation
+playwright==1.48.0
+
+# Environment variable management
+python-dotenv==1.0.1
+#colorlog>=6.7.0
+
+# HTTP requests for health checks
+requests==2.32.3
+
+# Date/time utilities
+python-dateutil==2.9.0
+
+# SSH/SFTP for remote file copy (used when REMOTE_COPY_METHOD=paramiko)
+paramiko==3.5.0
+
+# PDF merge (used when SCREENSHOT_FORMAT=pdf to merge panels into one file)
+Pillow>=10.0.0

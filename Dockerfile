@@ -1,12 +1,12 @@
 # =============================================================================
-# GrafMail-Grafana Dashboard Screenshot Tool
+# GrafMail - Grafana Dashboard Screenshot Tool
 # =============================================================================
 
 FROM python:3.11-slim-bookworm
 
 # Metadata
 LABEL maintainer="Md Mahin Rahman"
-LABEL description="Offline-ready GrafMail-Grafana dashboard screenshot capture and email tool"
+LABEL description="Offline-ready GrafMail - Grafana dashboard screenshot capture and email tool"
 LABEL version="1.0.0"
 
 WORKDIR /app
