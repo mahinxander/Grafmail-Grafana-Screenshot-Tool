@@ -312,15 +312,15 @@ DOCKER_CPUS=1.5      # Container CPU limit
 
 A typical Grafana dashboard URL looks like this:
 
-----
+```bash
 https://<grafana-host>/d/<uid>/<slug>?<params>
-----
+```
 
 Example:
 
-----
+```bash
 https://grafana.example.com/d/abcd1234/system-metrics?orgId=1&from=now-6h&to=now
-----
+```
 
 Breakdown of the parts:
 
