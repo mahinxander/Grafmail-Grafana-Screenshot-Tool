@@ -117,7 +117,7 @@
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
+<img src="grafmail_architecture_infographic.png" alt="grafmail-grafana-screenshot-tool" />
 ---
 
 ## Project Structure
