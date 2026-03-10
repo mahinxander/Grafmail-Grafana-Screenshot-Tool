@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Automation-orange?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)
-![Docs](https://img.shields.io/badge/docs-github_pages-blue)(https://mahinxander.github.io/Grafmail-Grafana-Screenshot-Tool/)
+[![Docs](https://img.shields.io/badge/docs-github_pages-blue)(https://mahinxander.github.io/Grafmail-Grafana-Screenshot-Tool/)]
 
 > Automated Grafana dashboard screenshot tool for DevOps monitoring. Captures PNG/PDF reports and sends via email SMTP or SFTP. Supports Docker and air-gapped deployment..
 
