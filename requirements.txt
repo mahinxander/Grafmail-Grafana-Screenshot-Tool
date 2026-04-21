@@ -8,7 +8,7 @@
 playwright==1.48.0
 
 # Environment variable management
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 #colorlog>=6.7.0
 
 # HTTP requests for health checks
